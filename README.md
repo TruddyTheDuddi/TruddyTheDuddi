@@ -1,4 +1,4 @@
-### Hi there 👋
+### Heyo, I run under the name of <a href="https://github.com/TruddyTheDuddi">TruddyTheDuddi</a>
 
 <!--
 **TruddyTheDuddi/TruddyTheDuddi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
