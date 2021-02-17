@@ -1,4 +1,6 @@
-### Heyo, I run under the name of <a href="https://github.com/TruddyTheDuddi">TruddyTheDuddi</a> <img src="https://cdn.discordapp.com/emojis/756568763909800016.png?v=1" height="35px"> 
+
+### Heyo, I run under the name of <a href="https://github.com/TruddyTheDuddi">TruddyTheDuddi</a>
+<img src="https://cdn.discordapp.com/emojis/756568763909800016.png?v=1" height="48px">
 
 <!--
 **TruddyTheDuddi/TruddyTheDuddi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
